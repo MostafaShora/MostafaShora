@@ -43,7 +43,7 @@ Currently expanding my knowledge in **NestJS** and **PostgreSQL** while continuo
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap"/>
 
 </p>
 
@@ -51,7 +51,7 @@ Currently expanding my knowledge in **NestJS** and **PostgreSQL** while continuo
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,dotnet,python"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
 
 </p>
 
