@@ -1,11 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06B6D4,100:2563EB&text=Mostafa%20Shora&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:06B6D4,100:2563EB&text=Mostafa%20Shora&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Enthusiast;Building+clean+%26+maintainable+software."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Enthusiast;Building+clean+%26+maintainable+software."/>
 
 <p>
+
 <img src="https://komarev.com/ghpvc/?username=MostafaShora&label=PROFILE+VIEWS&color=0891b2&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/MostafaShora?style=flat-square&color=0891b2"/>
+
+<img src="https://img.shields.io/github/stars/MostafaShora?affiliations=OWNER&style=flat-square&color=0891b2"/>
+
 </p>
 
 </div>
@@ -14,45 +20,53 @@
 
 # [001] ABOUT
 
-Software Engineer from Egypt focused on building **clean**, **maintainable**, and **scalable** software.
+Software Engineer from **Egypt** focused on building **clean**, **scalable**, and **maintainable** software.
 
-I enjoy building modern applications using **Angular**, **React**, **Node.js**, **Laravel**, and **PostgreSQL**, while continuously improving my knowledge of backend engineering and software architecture.
+I enjoy creating modern web and desktop applications while constantly improving my backend engineering and software architecture skills.
 
-### Current Focus
+### CURRENT FOCUS
 
 - Backend Engineering
 - System Design
-- NestJS
-- PostgreSQL
 - Clean Architecture
+- PostgreSQL
+- NestJS
 - Performance Optimization
 
 ---
 
-# [002] STACK
+# [002] TECH STACK
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind,js,html,css" />
+
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind,js,html,css"/>
+
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,dotnet,rust,cs,python" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,dotnet,rust,cs,python"/>
+
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
+
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,figma,vercel" />
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,postman,figma"/>
+
 </p>
 
 ---
@@ -67,47 +81,47 @@ I enjoy building modern applications using **Angular**, **React**, **Node.js**, 
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MostafaShora&theme=transparent&hide_border=true"/>
+
+</div>
+
 ---
 
 # [004] FEATURED PROJECTS
 
-### 🩺 DocSphere
+## 🚀 Portfolio
 
-Healthcare platform for appointment booking and patient management.
+Modern portfolio inspired by premium product landing pages.
 
-**Stack**
-
-Angular • Node.js • MongoDB • JWT • Stripe
+**Next.js • React • TailwindCSS • Framer Motion • TypeScript**
 
 ---
 
-### 🍽️ DineSync
+## 📁 File Manager
 
-Restaurant management system with real-time ordering.
+Self-hosted file management system with modern UI.
 
-**Stack**
-
-Next.js • Node.js • MongoDB • Socket.IO
+**React • Node.js • SQLite • TailwindCSS**
 
 ---
 
-### ✅ TaskFlow
+## 🎬 Aether Media
 
-Task management application powered by Angular Signals.
+Desktop media processing application powered by Rust & FFmpeg.
 
-**Stack**
-
-Angular • TailwindCSS • Angular CDK
+**Rust • Tauri • React • FFmpeg**
 
 ---
 
-### 💬 Real-Time Chat
+## ⚡ Aether JS
 
-Modern chat platform with real-time communication.
+Headless JavaScript interaction library.
 
-**Stack**
-
-React • Node.js • Socket.IO • MongoDB
+**JavaScript • TypeScript**
 
 ---
 
@@ -137,27 +151,53 @@ SCALABLE VISION
 
 </div>
 
----
-
-# [007] CONTACT
+<br>
 
 <div align="center">
 
-Portfolio
+<img src="https://raw.githubusercontent.com/MostafaShora/MostafaShora/output/github-contribution-grid-snake-dark.svg"/>
 
-https://portifllo.vercel.app
+</div>
 
-Email
+---
 
-mostafashora.dev@gmail.com
+# [007] TROPHIES
 
-LinkedIn
+<div align="center">
 
-https://linkedin.com/in/mostafa-shora
+<img src="https://github-profile-trophy.vercel.app/?username=MostafaShora&theme=algolia&no-frame=true&margin-w=12&row=1"/>
 
-GitHub
+</div>
 
-https://github.com/MostafaShora
+---
+
+# [008] CONTACT
+
+<div align="center">
+
+<a href="mailto:mostafashora.dev@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/mostafa-shora">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/MostafaShora">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://portifllo.vercel.app">
+
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge"/>
+
+</a>
 
 </div>
 
@@ -165,7 +205,9 @@ https://github.com/MostafaShora
 
 <div align="center">
 
-### Build Less. Build Better.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Build+Less.;Build+Better.;Keep+Learning.;Keep+Shipping."/>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:2563EB"/>
 
