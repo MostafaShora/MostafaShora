@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:06B6D4,100:2563EB&text=Mostafa%20Shora&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Enthusiast;Building+clean+%26+maintainable+software."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&lines=Software+Engineer;Full+Stack+Developer+(MEAN);Building+Modern+Web+Applications;Always+Learning."/>
 
 <p>
 
@@ -20,18 +20,20 @@
 
 # [001] ABOUT
 
-Software Engineer from **Egypt** focused on building **clean**, **scalable**, and **maintainable** software.
+Software Engineer from **Egypt** passionate about building modern, scalable, and maintainable web applications.
 
-I enjoy creating modern web and desktop applications while constantly improving my backend engineering and software architecture skills.
+I primarily work with the **MEAN** and **MERN** stacks, focusing on RESTful APIs, reusable architectures, authentication systems, and responsive user interfaces.
+
+Currently expanding my knowledge in **NestJS** and **PostgreSQL** while continuously improving my backend development and software engineering skills.
 
 ### CURRENT FOCUS
 
-- Backend Engineering
-- System Design
-- Clean Architecture
-- PostgreSQL
-- NestJS
-- Performance Optimization
+- Full Stack Development (MEAN)
+- Backend Development
+- RESTful APIs
+- Clean Code
+- NestJS *(Learning)*
+- PostgreSQL *(Learning)*
 
 ---
 
@@ -41,7 +43,7 @@ I enjoy creating modern web and desktop applications while constantly improving 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,bootstrap"/>
 
 </p>
 
@@ -49,7 +51,7 @@ I enjoy creating modern web and desktop applications while constantly improving 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,dotnet,rust,cs,python"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,dotnet,python"/>
 
 </p>
 
@@ -57,7 +59,7 @@ I enjoy creating modern web and desktop applications while constantly improving 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 
 </p>
 
@@ -65,7 +67,7 @@ I enjoy creating modern web and desktop applications while constantly improving 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
 
 </p>
 
@@ -93,35 +95,35 @@ I enjoy creating modern web and desktop applications while constantly improving 
 
 # [004] FEATURED PROJECTS
 
-## 🚀 Portfolio
+## 🩺 DocSphere
 
-Modern portfolio inspired by premium product landing pages.
+Full-Stack medical appointment booking platform featuring role-based dashboards, JWT authentication, Stripe integration, email verification, and appointment management.
 
-**Next.js • React • TailwindCSS • Framer Motion • TypeScript**
-
----
-
-## 📁 File Manager
-
-Self-hosted file management system with modern UI.
-
-**React • Node.js • SQLite • TailwindCSS**
+**Angular • TypeScript • Node.js • Express.js • MongoDB • JWT • Stripe**
 
 ---
 
-## 🎬 Aether Media
+## 🍽️ DineSync
 
-Desktop media processing application powered by Rust & FFmpeg.
+Restaurant management platform with customer, staff, and admin dashboards, secure authentication, and real-time order tracking.
 
-**Rust • Tauri • React • FFmpeg**
+**Next.js • React • Node.js • Express.js • MongoDB • Socket.IO**
 
 ---
 
-## ⚡ Aether JS
+## ✅ TaskFlow
 
-Headless JavaScript interaction library.
+Modern task management application built with Angular Signals, standalone components, drag & drop, multilingual support, and dark mode.
 
-**JavaScript • TypeScript**
+**Angular • Angular Signals • Angular CDK • TailwindCSS**
+
+---
+
+## 💬 Real-Time Chat
+
+Real-time messaging platform with authentication, image sharing, online presence, emojis, and WebSocket communication.
+
+**React • Node.js • Express.js • MongoDB • Socket.IO**
 
 ---
 
@@ -161,42 +163,24 @@ SCALABLE VISION
 
 ---
 
-# [007] TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MostafaShora&theme=algolia&no-frame=true&margin-w=12&row=1"/>
-
-</div>
-
----
-
-# [008] CONTACT
+# [007] CONTACT
 
 <div align="center">
 
 <a href="mailto:mostafashora.dev@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://linkedin.com/in/mostafa-shora">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/MostafaShora">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <a href="https://portifllo.vercel.app">
-
 <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge"/>
-
 </a>
 
 </div>
@@ -205,7 +189,7 @@ SCALABLE VISION
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Build+Less.;Build+Better.;Keep+Learning.;Keep+Shipping."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&center=true&vCenter=true&width=520&lines=Build+Less.;Build+Better.;Write+Clean+Code.;Keep+Learning.;Never+Stop+Building."/>
 
 <br><br>
 
