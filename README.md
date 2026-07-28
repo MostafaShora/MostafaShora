@@ -1,18 +1,12 @@
 <div align="center">
 
-```text
-██████████████████████████████████
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06B6D4,100:2563EB&text=Mostafa%20Shora&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-          MOSTAFA SHORA
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Enthusiast;Building+clean+%26+maintainable+software."/>
 
-      Full Stack Developer
-
-Building clean software with
-performance, simplicity and
-maintainability in mind.
-
-██████████████████████████████████
-```
+<p>
+<img src="https://komarev.com/ghpvc/?username=MostafaShora&label=PROFILE+VIEWS&color=0891b2&style=flat-square"/>
+</p>
 
 </div>
 
@@ -20,95 +14,104 @@ maintainability in mind.
 
 # [001] ABOUT
 
-Software Engineer from Egypt focused on building clean, scalable, and maintainable applications.
+Software Engineer from Egypt focused on building **clean**, **maintainable**, and **scalable** software.
 
-I enjoy creating modern web applications using the **MEAN** and **MERN** stacks while continuously improving my backend engineering and system design skills.
+I enjoy building modern applications using **Angular**, **React**, **Node.js**, **Laravel**, and **PostgreSQL**, while continuously improving my knowledge of backend engineering and software architecture.
 
-Currently learning and exploring:
+### Current Focus
 
 - Backend Engineering
 - System Design
 - NestJS
 - PostgreSQL
-- Software Architecture
+- Clean Architecture
+- Performance Optimization
 
 ---
 
 # [002] STACK
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind,js,html,css" />
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,dotnet,rust,cs,python" />
 </p>
 
-## Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
 </p>
 
-## Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,figma,vercel" />
 </p>
 
 ---
 
-# [003] PROJECTS
+# [003] GITHUB
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MostafaShora&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaShora&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+# [004] FEATURED PROJECTS
 
 ### 🩺 DocSphere
 
-Modern healthcare platform for appointment booking.
+Healthcare platform for appointment booking and patient management.
 
-- Angular
-- Node.js
-- MongoDB
-- JWT
-- Stripe
+**Stack**
+
+Angular • Node.js • MongoDB • JWT • Stripe
 
 ---
 
 ### 🍽️ DineSync
 
-Restaurant Management System with real-time order tracking.
+Restaurant management system with real-time ordering.
 
-- Next.js
-- Node.js
-- Socket.IO
-- MongoDB
+**Stack**
+
+Next.js • Node.js • MongoDB • Socket.IO
 
 ---
 
 ### ✅ TaskFlow
 
-Task management application built with Angular Signals.
+Task management application powered by Angular Signals.
 
-- Angular
-- TailwindCSS
-- Angular CDK
+**Stack**
+
+Angular • TailwindCSS • Angular CDK
 
 ---
 
 ### 💬 Real-Time Chat
 
-Real-time chat application built using the MERN stack.
+Modern chat platform with real-time communication.
 
-- React
-- Node.js
-- Socket.IO
-- MongoDB
+**Stack**
+
+React • Node.js • Socket.IO • MongoDB
 
 ---
 
-# [004] MANIFESTO
+# [005] MANIFESTO
 
 ```text
 RADICAL TRANSPARENCY
@@ -126,28 +129,44 @@ SCALABLE VISION
 
 ---
 
-# [005] CONTACT
+# [006] CONTRIBUTIONS
 
-📧 **Email**
+<div align="center">
 
-> mostafashora.dev@gmail.com
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaShora&theme=github-compact&hide_border=true"/>
 
-🌐 **Portfolio**
+</div>
 
-> https://portifllo.vercel.app
+---
 
-💼 **LinkedIn**
+# [007] CONTACT
 
-> https://www.linkedin.com/in/mostafa-shora/
+<div align="center">
 
-🐙 **GitHub**
+Portfolio
 
-> https://github.com/MostafaShora
+https://portifllo.vercel.app
+
+Email
+
+mostafashora.dev@gmail.com
+
+LinkedIn
+
+https://linkedin.com/in/mostafa-shora
+
+GitHub
+
+https://github.com/MostafaShora
+
+</div>
 
 ---
 
 <div align="center">
 
 ### Build Less. Build Better.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:2563EB"/>
 
 </div>
